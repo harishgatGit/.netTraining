@@ -1,0 +1,8 @@
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\bin\Debug\BasicProgramming.exe.config
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\bin\Debug\BasicProgramming.exe
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\bin\Debug\BasicProgramming.pdb
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\obj\Debug\BasicProgramming.csprojResolveAssemblyReference.cache
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\obj\Debug\BasicProgramming.exe
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\obj\Debug\BasicProgramming.pdb
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\bin\Debug\CalcLib.dll
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\bin\Debug\CalcLib.pdb

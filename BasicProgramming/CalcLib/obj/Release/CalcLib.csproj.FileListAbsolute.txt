@@ -1,0 +1,4 @@
+D:\Harish\Training\dot net\Work\BasicProgramming\CalcLib\bin\Release\CalcLib.dll
+D:\Harish\Training\dot net\Work\BasicProgramming\CalcLib\bin\Release\CalcLib.pdb
+D:\Harish\Training\dot net\Work\BasicProgramming\CalcLib\obj\Release\CalcLib.dll
+D:\Harish\Training\dot net\Work\BasicProgramming\CalcLib\obj\Release\CalcLib.pdb

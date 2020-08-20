@@ -1,0 +1,5 @@
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\bin\Release\BasicProgramming.exe.config
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\bin\Release\BasicProgramming.exe
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\bin\Release\BasicProgramming.pdb
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\obj\Release\BasicProgramming.exe
+D:\Harish\Training\dot net\Work\BasicProgramming\BasicProgramming\obj\Release\BasicProgramming.pdb
